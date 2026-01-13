@@ -1,0 +1,7 @@
+{
+  "name": "ServeU – Services in Minutes",
+  "description": "An instant service marketplace demonstrating a high-speed request-accept-ETA workflow for immediate needs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
